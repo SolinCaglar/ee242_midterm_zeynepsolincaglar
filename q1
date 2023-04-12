@@ -1,0 +1,28 @@
+Find the ascii sum of the characters in your name and surname:
+Asciiname = Zeynep solin
+asciisurname= çağlar
+asciitotal=
+timernumber= (asciitotal % 14) + 1
+Arrnumber = 65536-1
+duration= (asciisurname %1500) * 30
+Ledpinnumber = (asciitotal%4)+12
+
+122 + 101 + 121 + 110 + 101 + 112 =
+
+33
+
+115 + 111+ 108 + 105 + 110 =
+
+33
+
+99 + 97 + 103 + 108 + 97 + 114 = 
+
+Zeynep solin = 1249 = asciiname
+
+Çağlar = 618 = asciisurname
+
+asciitotal= 1867
+timernumber=5 +1 = 6
+arrnumber= 65535
+Duration = 618 * 30= 18540
+ledpinnumber = 3+12 = 15
